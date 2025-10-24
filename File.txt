@@ -1,0 +1,16 @@
+-PASSWORD
+Blockbuster1
+
+-domain
+Workgroup
+
+-Username
+mrealman
+
+-NTProofStr
+16e816dead16d4ca7d5d6dee4a015c14
+
+-Key Exchange Key (Also known as the NTLMv2 Session Base Key)
+
+-Session ID
+fde53b54cb676b9bbf0fb1fbef384698
